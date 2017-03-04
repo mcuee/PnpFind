@@ -10,3 +10,4 @@ Source is also included.
 
 Similar utilites:
 https://github.com/lostindark/DriverStoreExplorer
+https://github.com/JustAMan/pyWinClobber/blob/master/driver_cleanup.py
