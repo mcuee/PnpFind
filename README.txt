@@ -7,3 +7,6 @@ run as admin.
 Please do not use this under Windows XP or lower. 
 
 Source is also included.
+
+Similar utilites:
+https://github.com/lostindark/DriverStoreExplorer
